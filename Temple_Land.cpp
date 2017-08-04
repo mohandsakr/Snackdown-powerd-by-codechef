@@ -14,7 +14,7 @@ bool valid(int arr[],int n,int max,int indexofmax){
 	if(n%2!=1){
 		return false;
 	}
-	else if(arr[0]!=1&&arr[n-1]!=1){
+	else if(arr[0]!=1&& arr[n-1]!=1){
 		return false;
 	}
 	else if(arr[mid]!=max){
