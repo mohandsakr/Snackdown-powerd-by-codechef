@@ -45,15 +45,6 @@ int main() {
 	   cout<<"tie"<<"\n";
 
 
-
-
-
-
-
-
-
-
-
 	 }
 	return 0;
 }
